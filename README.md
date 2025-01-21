@@ -7,6 +7,7 @@
 -   [Features](#features)
     -   [Account Management](#account-management)
     -   [Transaction Management](#transaction-management)
+    -   [Fictional ATM's](#fictional-atms)
 
 ## About Horizon Bank
 
@@ -19,9 +20,9 @@ To install and set up the Horizon Bank project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://your-repository-link.git
+    git clone https://github.com/Tomche10/HorizonBank.git
 
-    cd your-project-directory
+    cd HorizonBank
 
     git checkout main
     ```
